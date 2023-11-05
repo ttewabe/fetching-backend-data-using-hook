@@ -1,0 +1,9 @@
+body{
+  margin: auto;
+  width: 50%;
+  background-color: black;
+}
+.container{
+  background-color: aquamarine;
+  border: 2px solid blue;
+}
